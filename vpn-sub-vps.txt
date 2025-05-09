@@ -1,5 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJdW12eTJialdxWW45bk9Md1pNOGFzSWhabDhtakdDeVZYMDlnS1E5YjRvQQ==@217.196.100.53:36237#CloudX%20%28NL%29%20-%20Amnezia
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSVXpCRVFQNFVuU0FaeDBCME1DaVRS@217.196.100.53:51481#CloudX%20%28NL%29%20-%20Outline
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXSXVDN0ZPQ1hFNEFicDJsQWZaRWF4d2MxZnFJZmFBTTlQejNSZHFLZzA0QQ==@77.72.18.204:35802#SD%20%28DE%29%20-%20Amnezia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSVXpCRVFQNFVuU0FaeDBCME1DaVRS@217.196.100.53:51481#CloudX%20%28NL%29%20-%20Outline
 vless://8bc7ed8e-fcbc-47fc-9b06-ae72da2502cb@87.236.146.34:443?security=reality&encryption=none&pbk=9vBE_sWSX59x9qwLygpd9oekDQ_4icfiHpecX90NZH8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.seznam.cz&sid=45192dfdd6520f1a#SA+%28CZ%29+-+xRay
