@@ -1,4 +1,6 @@
-# Корняков Никита
+# nikorn
+
+**nikorn** это особый репозиторий, так как он содержит фал `README.md` (этот файл) указанный в вашем профиле GitHub.
 
 Это пример сайта на базе GitHub. Адрес сайта - https://nikorn.github.io.
 
@@ -6,7 +8,7 @@
 
 Файл readme.md по умолчанию не является частью контента сайта.
 
-**nikorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
