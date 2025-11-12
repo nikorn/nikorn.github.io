@@ -1,1 +1,8 @@
-
+2025-11-11
+domain:matchtv.ru,
+domain:pecom.ru,
+domain:redd.it,
+domain:reddit.com,
+domain:redditmedia.com,
+domain:redditspace.com,
+domain:redditstatic.com
