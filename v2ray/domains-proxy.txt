@@ -1,4 +1,3 @@
-2026-01-12
 domain:1e100.net,
 domain:2ip.io,
 domain:2ip.ru,
