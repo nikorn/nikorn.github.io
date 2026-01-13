@@ -1,1 +1,1 @@
-Файл формируется из v2ray/domains-proxy.md
+Файл формируется из v2ray/domains-proxy.txt
