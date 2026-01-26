@@ -1,4 +1,3 @@
-2026-01-16
 domain:1e100.net
 domain:2ip.io
 domain:2ip.ru
@@ -54,7 +53,6 @@ domain:java.com
 domain:joomla.org
 domain:journal-theme.com
 domain:keenetic.com
-domain:l.google.com
 domain:learndelphi.org
 domain:librewolf.net
 domain:link-assistant.com
@@ -75,7 +73,6 @@ domain:opencart.com
 domain:opencartforum.com
 domain:parallels.com
 domain:pdq.com
-domain:play.google.com
 domain:pm.me
 domain:prostovpn.org
 domain:proton.me
