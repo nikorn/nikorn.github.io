@@ -1,4 +1,4 @@
-2026-02-01
+2026-02-03
 domain:1e100.net,
 domain:2ip.io,
 domain:2ip.ru,
@@ -41,6 +41,7 @@ domain:getoutline.org,
 domain:ggpht.com,
 domain:godaddy.com,
 domain:google.com,
+domain:google.ru,
 domain:googleapis.com,
 domain:googleusercontent.com,
 domain:googlevideo.com,
