@@ -1,4 +1,4 @@
-2026-02-01
+2026-02-03
 suffix:1e100.net
 suffix:2ip.io
 suffix:2ip.ru
@@ -41,6 +41,7 @@ suffix:getoutline.org
 suffix:ggpht.com
 suffix:godaddy.com
 suffix:google.com
+suffix:google.ru
 suffix:googleapis.com
 suffix:googleusercontent.com
 suffix:googlevideo.com
