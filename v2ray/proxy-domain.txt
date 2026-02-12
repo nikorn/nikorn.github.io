@@ -1,8 +1,9 @@
-2026-02-03
+2026-02-12
 domain:1e100.net,
 domain:2ip.io,
 domain:2ip.ru,
 domain:4pda.to,
+domain:4pda.ws,
 domain:5sim.net,
 domain:adguard.com,
 domain:amazfitwatchfaces.com,
